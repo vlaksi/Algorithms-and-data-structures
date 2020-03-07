@@ -11,21 +11,14 @@ class Solution(object):
         :type root: TreeNode
         :rtype: List[int]
         """
-        inorderNumber = []
-        
-        if(root != None):
-            self.search(root.left, inorderNumber)
-            inorderNumber.append(root.val)
-            self.search(root.right, inorderNumber)
-        return inorderNumber
+        output = []
+        self.search(root,output)
+        return output
     
-    def search(self, root, inorderNumber):
-        if not inorderNumber:
-            inorderNumber = []
-            
-        if(root != None):
-            self.search(root.left, inorderNumber)
-            inorderNumber.append(root.val)
-            self.search(root.right, inorderNumber)
-            
-        return inorderNumber
+    def search(self, node, output):
+        if node is not None :
+            if node.left is not None:
+                self.search(node.left, output)
+            output.append(node.val)
+            if node.right is not None:
+                self.search(node.right, output)
