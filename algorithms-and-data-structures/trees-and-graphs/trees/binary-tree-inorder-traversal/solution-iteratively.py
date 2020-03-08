@@ -17,7 +17,7 @@ class Solution(object):
         
         """
             While node is not null (terminal node) or stack is not empty 
-            ( if we just sat list, return value of list will say is it empty or not [False - it is empty, True- list have elements])
+            ( if we just say list, return value of list will say is it empty or not [False - it is empty, True- list have elements])
         """
         while curr is not None or stack:        
             while curr is not None:
