@@ -1,20 +1,18 @@
 <h1 align = "center"> Ace the coding interview </h1>
 
-Make sure to learn the following data structures before try to ace the coding interview:
-  - ***Dynamic Array*** 
-  - ***Linked List*** 
-  - ***Stack & Queue*** 
-  - ***Hash Tables*** 
-  - ***Binary Search Tree*** 
-  - ***Binary Heaps & Priority*** 
-  - ***Graphs*** 
-  - ***Trie***
-  
+## Must know
+***Core Data Structures, Algorithms, and Concepts***<br><br> 
+Most interviewers won't ask about specific algorithms for binary tree balancing or other complex algorithms. Frankly, being several years out of school, they probably don't remember these algorithms either. 
+You're usually only expected to **know the basics**. Here's a list of the ***absolute, must-have knowledge***
+
+<p align="center">
+
+  <img width="700" height="221" src="https://user-images.githubusercontent.com/45834270/76638012-04c28c00-654c-11ea-94bc-803cb8f59b40.png">
+
+</p>
+
 <br><br>
-And review the following algorithms:
-  - ***Binary search***
-  - ***DFS (Depth-First Search)*** 
-  - ***BFS (Breadth-First Search)***
+And also review the following algorithms:
   - ***Binary Tree Traversals (In-order, pre-order and post-order traversals)*** 
   - ***Traveling Salesman***
 
