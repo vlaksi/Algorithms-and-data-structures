@@ -32,3 +32,14 @@ The single most important aspect of preparing for technical interviews is to sol
   8. Do not spend more than ***30–35 minutes per question***.
   9. Record activity on your progress chart.
   10. Revisit the question next week.
+  
+## 7 Steps to Solve Algorithm Problems
+  1. **Listen**
+  2. **Example**
+  3. **Brute force**
+  4. **Optimize**
+  5. **Walk through your algorithm**
+  6. **Code**
+  7. **Test**
+  
+[More about it](https://www.youtube.com/watch?v=GKgAVjJxh9w&list=PLy93QBVON39oi8lNtYBtLx3T6MdPGAQ5Z&index=2&t=0s)
