@@ -20,7 +20,7 @@ And also review the following algorithms:
 
 Try to use ***Cracking the Coding Interview*** and ***LeetCode***
 The single most important aspect of preparing for technical interviews is to solve many coding challenges. Although some tech companies have stopped asking algorithm questions and instead test domain-specific knowledge, most tech giants (and even the small ones) still require candidates to solve coding challenges. Many engineers get frustrated about this. Getting frustrated is completely pointless and a waste of energy that can be spent on more productive ways.
-[Video-advice](https://www.youtube.com/watch?v=fbRSDn5YK_k&list=LLtH1ZMOftu7kpqsdhbC96lw&index=1)
+[Read this before you start solving problems](https://www.alimirio.com/posts/how-to-solve-problems-on-leetcode-to-prepare-for-technical-interviews)
 ### The strategy:
   1. Go to a quiet location.
   2. Pick a question.
