@@ -28,6 +28,7 @@ class Stack():
     def isEmpty(self):
         return self.items == []
 
+    # it give us element from the top of stack
     def peek(self):
         if not self.isEmpty():
             return self.items[-1]

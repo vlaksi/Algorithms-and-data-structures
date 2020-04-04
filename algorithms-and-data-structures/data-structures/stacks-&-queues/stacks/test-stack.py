@@ -18,3 +18,6 @@ if __name__ == "__main__":
     ourStack.pop()
     print(ourStack)
 
+    # give us top of stack
+    print(ourStack.peek())
+
