@@ -1,5 +1,5 @@
 """
-    Stack data struture. LIFO ]
+    Stack data struture. LIFO 
     We use python list to create Stack.
 """
 
@@ -35,3 +35,4 @@ class Stack():
 
     def getStack(self):
         return self.items
+
