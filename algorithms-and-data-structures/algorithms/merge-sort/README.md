@@ -31,3 +31,6 @@ Merge sort ***divides the array in hal***f, ***sorts each*** of those ***halve**
   <img  src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif">
 
 </p>
+
+
+If you want you can watch [video-explanation](https://www.youtube.com/watch?v=TzeBrDU-JaY)
