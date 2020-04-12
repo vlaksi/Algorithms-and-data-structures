@@ -16,3 +16,12 @@ The pseudocode below implements DFS.
 9     } 
 10  }
 ```
+
+<br><br>
+
+### DFS & BFS animation
+<p align="center">
+
+  <img  src="https://miro.medium.com/max/1280/0*miG6xdyYzdvrB67S.gif">
+
+</p>
