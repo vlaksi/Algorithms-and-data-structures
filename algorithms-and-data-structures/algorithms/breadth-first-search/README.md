@@ -23,3 +23,10 @@ In BFS, node a visits ***each of a's neighbors before*** visiting any of their n
 16 }
 ```
 The key thing to remember is the use of the ***queue***.
+
+### DFS & BFS animation
+<p align="center">
+
+  <img  src="https://miro.medium.com/max/1280/0*miG6xdyYzdvrB67S.gif">
+
+</p>
