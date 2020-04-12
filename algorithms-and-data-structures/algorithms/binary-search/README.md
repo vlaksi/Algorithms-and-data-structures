@@ -9,3 +9,5 @@ In binary search, we look for an element x in a ***sorted array*** by first comp
   <img  src="https://blog.penjee.com/wp-content/uploads/2015/04/binary-and-linear-search-animations.gif">
 
 </p>
+
+If you want you can watch [video-explanation](https://www.youtube.com/watch?v=-bQ4UzUmWe8&list=PL2_aWCzGMAwL3ldWlrii6YeLszojgH77j&index=3)
