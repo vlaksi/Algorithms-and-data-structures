@@ -31,7 +31,7 @@ For example, ***binary search*** works with a "half-and-half" approach. When we 
 
 <br>
 
-## Recursive vs.lterative Solutions 
+## Recursive vs. lterative Solutions 
 
 Recursive algorithms can be very space inefficient. Each recursive call adds a new layer to the stack, which means that if your algorithm recurses to a depth of n, it uses at least O(n) memory. For this reason, it's often better to implement a recursive algorithm iteratively. <br><br>
 
