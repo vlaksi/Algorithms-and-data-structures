@@ -38,7 +38,7 @@ The root node has two children. Each of those children has two children (so four
 </p>
 
 
-### Top-Down Dynamic Programming (or Memoizationj 
+### Top-Down Dynamic Programming (or Memoization)
 
 Study the recursion tree. Where do you see identical nodes?  <br><br>
 
