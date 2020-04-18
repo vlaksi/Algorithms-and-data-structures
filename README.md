@@ -1,7 +1,25 @@
 <h1 align = "center"> Algorithms and data structure </h1>
 
-## About repository
-This is the repository where we will put our solutions for some problems and tasks from LeetCode, HackerRank and etc.
+
+## Introduction to Data Structures and Algorithms
+
+Data Structures are **structures programmed to store ordered data**, so that various operations can be performed on it easily. It represents the knowledge of data to be organized in memory. It should be designed and implemented in such a way that it reduces the complexity and increases the efficiency.
+
+## What is an Algorithm
+
+An algorithm is a finite set of instructions or logic, written in order, to accomplish a certain predefined task. Algorithm is not the complete code or program, it is just the ***core logic(solution) of a problem***, which can be expressed either as an informal high level description as pseudocode or using a flowchart.
+
+
+Every Algorithm must satisfy the following properties:
+  - ***Input***- There should be 0 or more inputs supplied externally to the algorithm.
+  - ***Output***- There should be atleast 1 output obtained.
+  - ***Definiteness***- Every step of the algorithm should be clear and well defined.
+  - ***Finiteness***- The algorithm should have finite number of steps.
+  - ***Correctness***- Every step of the algorithm must generate a correct output.
+
+An algorithm is said to be ***efficient and fast, if it takes less time to execute and consumes less memory space***. The performance of an algorithm is measured on the basis of following properties :
+  - ***Time Complexity***
+  - ***Space Complexity***
 
 
 <h1 align = "center"> The Fundamentals </h1>
